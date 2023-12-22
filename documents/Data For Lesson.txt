@@ -1,0 +1,11 @@
+IP Addr: 52.226.217.170
+Local IP Addr: 72.218.140.65
+UN: cloudadmin
+pw: Ireallyh@t3Hackers!@#
+Please note your unique ID for future exercises in this module: 762503
+Your resource group name is: learn-3a65b3d7-4f3b-486c-a1fc-6ceb7353df69
+Your resources were deployed in the following region: westus
+Your server name is: bus-server762503
+
+
+
